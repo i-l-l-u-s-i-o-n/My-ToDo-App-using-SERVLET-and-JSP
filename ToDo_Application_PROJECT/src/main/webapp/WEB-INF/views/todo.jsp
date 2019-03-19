@@ -10,6 +10,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="shortcut icon" type="image/png" href="https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/apps/korganizer_todo.png" />
     <title>Todos</title>
     <%--<link href="webjars/bootstrap/3.3.6/css/bootstrap.min.css"--%>
           <%--rel="stylesheet">--%>
@@ -36,12 +37,12 @@
         }
 
         th{
-            color: #ffffff;
+            color: #000000;
             text-transform: uppercase;
             word-spacing: 2px;
             letter-spacing: 2px;
-            font-weight: 100;
-            font-size: large;
+            font-weight: 900;
+            font-size: x-large;
         }
         table{
             border: 1px solid white;
@@ -51,9 +52,9 @@
         .table thead th{
             border: 0;
         }
-        td:hover{
+        tr:hover{
             color: white;
-            font-size: large;
+            font-size: x-large;
         }
         .footer {
             position: relative;
@@ -61,7 +62,7 @@
             width: 100%;
             height: 60px;
             background-color: #000000;
-            background-image: linear-gradient(315deg, #000000 0%, #414141 74%);
+            background-image: linear-gradient(315deg, #000000 80%, #414141 74%);
             border-top: 2px solid;
         }
         p{
@@ -73,16 +74,24 @@
             font-size: medium;
             padding-top: 1%;
         }
-        h1{
+
+        h1 {
+            padding-top: 10%;
             text-align: center;
-            font-weight: 100;
             padding-bottom: 5%;
-            padding-top: 15%;
-            color: #b3b3b3;
+            color: #c0c0c0;
+            letter-spacing: 3px;
+            word-spacing: 8px;
+            font-weight: 100;
+
+        }
+        #welcome_text{
+            text-transform: uppercase;
+
         }
         .bg-light{
             background-color: #000000;
-            background-image: linear-gradient(315deg, #000000 0%, #414141 74%);
+            background-image: linear-gradient(315deg, #000000 80%, #414141 74%);
             border-bottom: 2px solid;
         }
         .btn-secondary {
@@ -141,11 +150,11 @@
 </nav>
 
 <div class="container">
-    <H1>Welcome ${name}  to 'My ToDo'</H1>
+    <h1> <span id="welcome_text">Welcome ${name} to </span>My ToDo</h1>
 
 
 
-    <table class="table table-hover">
+    <table class="table">
         <thead>
             <th>Description</th>
             <th>Category</th>
@@ -167,10 +176,7 @@
         </tbody>
     </table>
 
-    <p style="color: white;">${date}</p>
-
-
-    <a style="width: 100%; margin-bottom: 18%; padding: 1% 0" class="btn btn-secondary" href="/add_todo">ADD ToDo &nbsp;<i class="far fa-calendar-plus"></i></a>
+    <a style="width: 100%; margin-bottom: 23%; padding: 1% 0" class="btn btn-secondary" href="/add_todo">ADD ToDo &nbsp;<i class="far fa-calendar-plus"></i></a>
 
 
 
@@ -178,7 +184,7 @@
 </div>
 
 <footer class="footer">
-    <p >Developed by -> SHIVAM SHUKLA (shivam.dev1097@gmail.com)</p>
+    <p >Developed by ~ SHIVAM SHUKLA (shivam.dev1097@gmail.com)</p>
 </footer>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>

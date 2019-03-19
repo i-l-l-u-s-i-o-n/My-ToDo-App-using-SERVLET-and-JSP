@@ -10,6 +10,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="shortcut icon" type="image/png" href="https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/apps/korganizer_todo.png" />
     <title>Todos</title>
 
 
@@ -33,7 +34,7 @@
             width: 100%;
             height: 60px;
             background-color: #000000;
-            background-image: linear-gradient(315deg, #000000 0%, #414141 74%);
+            background-image: linear-gradient(315deg, #000000 80%, #414141 74%);
             border-bottom: 2px solid;
             border-top: 2px solid;
         }
@@ -48,7 +49,7 @@
         }
         .bg-light{
             background-color: #000000;
-            background-image: linear-gradient(315deg, #000000 0%, #414141 74%);
+            background-image: linear-gradient(315deg, #000000 80%, #414141 74%);
             border-bottom: 2px solid;
         }
         .btn-secondary {
@@ -134,7 +135,7 @@
 </div>
 
 <footer class="footer">
-    <p >Developed by -> SHIVAM SHUKLA (shivam1097@gmail.com)</p>
+    <p >Developed by ~ SHIVAM SHUKLA (shivam1097@gmail.com)</p>
 </footer>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>

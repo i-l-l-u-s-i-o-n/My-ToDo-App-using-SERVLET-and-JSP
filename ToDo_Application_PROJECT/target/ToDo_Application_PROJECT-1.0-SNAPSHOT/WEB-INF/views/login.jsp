@@ -22,9 +22,9 @@
         <br>
         <input type="password" name="pw" placeholder="Password : " class="form-control">
         <%--<input style="margin-top: 25px;margin-left: 25px " class="btn btn-default" type="submit" value="Log In "><i class="fas fa-user-check"></i>--%>
-        <button type="submit" style="margin-top: 25px;margin-left: 25px " class="btn btn-secondary">LogIn &nbsp;<i class="fas fa-user-plus"></i></button>
+        <button type="submit" style="margin-top: 25px;margin-left: 25px " class="btn btn-secondary btn-lg">LogIn &nbsp;<i class="fas fa-user-plus"></i></button>
     </form>
-    <a href="/signup"><button style="margin-top: 25px; margin-left: 25px" class="btn btn-secondary" type="submit">Sign Up &nbsp;<i class="fas fa-user-check"></i></button></a>
+    <a href="/signup"><button style="margin-top: 25px; margin-left: 25px" class="btn btn-secondary btn-lg" type="submit">Sign Up &nbsp;<i class="fas fa-user-check"></i></button></a>
 
 
     <p>${Error}</p>
