@@ -1,0 +1,37 @@
+
+<%--<nav class="navbar navbar-default">--%>
+
+    <%--<a href="/" class="navbar-brand">VISION</a>--%>
+
+    <%--<ul class="nav navbar-nav">--%>
+        <%--<li class="active"><a href="#">Home</a></li>--%>
+        <%--<li><a href="/list_todo">Todos</a></li>--%>
+        <%--<li><a href="http://www.github.com/shivam1097">Shivam</a></li>--%>
+    <%--</ul>--%>
+
+    <%--<ul class="nav navbar-nav navbar-right">--%>
+        <%--<li><a href="/login">Login</a></li>--%>
+    <%--</ul>--%>
+
+<%--</nav>--%>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-light">
+    <a class="navbar-brand" href="#">My ToDo</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li><a class="nav-link" href="/list_todo">Todos</a></li>
+
+        </ul>
+
+        <a href="/login" id="sign" name="LogIn"><i class="fas fa-user-check">&nbsp;&nbsp;</i></a>
+        <a href="/signup" style="padding-right: 20px ; padding-left: 25px;" name="SignUp" id="sign"><i class="fas fa-user-plus"></i></a>
+        <%--<a href="/signup"><button class="btn btn-outline-success my-2 my-sm-0" type="submit">Sign Up</button></a>--%>
+    </div>
+</nav>
