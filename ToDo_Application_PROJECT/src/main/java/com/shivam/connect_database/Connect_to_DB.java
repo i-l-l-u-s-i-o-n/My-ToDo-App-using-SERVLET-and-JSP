@@ -7,11 +7,8 @@ import java.sql.*;
  */
 public class Connect_to_DB {
 
-//    private static final String name="sql9283549";
-private static final String name="root";
+    private static final String name="root";
     private static final String pass="vision22@";
-//    private static final String pass="LMLvyUEJSM";
-//    private static final String url="jdbc:mysql://sql9.freemysqlhosting.net:3306/sql9283549";
     private static final String url="jdbc:mysql://localhost:3306/sql9283549";
 
 

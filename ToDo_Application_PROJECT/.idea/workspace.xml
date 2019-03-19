@@ -7,48 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="863642da-3d19-4cf9-aa63-1ddb62f23953" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/Add_ToDo_Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/Add_ToDo_Servlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/Delete_ToDo_Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/Delete_ToDo_Servlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/List_ToDo_Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/List_ToDo_Servlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/ToDo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/ToDoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/ToDoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/filter/Login_Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/filter/Login_Filter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/login/Login_Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/login/Login_Servlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/connect_database/Connect_to_DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/connect_database/Connect_to_DB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/login/UserValidationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/login/UserValidationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/footer.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/footer.jspf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/header.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/header.jspf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/navbar.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/navbar.jspf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/new_todo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/new_todo.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/todo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/todo.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/ToDo/Add_ToDo_Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/ToDo/Add_ToDo_Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/ToDo/Delete_ToDo_Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/ToDo/Delete_ToDo_Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/ToDo/List_ToDo_Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/ToDo/List_ToDo_Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/ToDo/ToDo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/ToDo/ToDoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/ToDo/ToDoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/filter/Login_Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/filter/Login_Filter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/login/Login_Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/login/Login_Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/login/UserValidationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/login/UserValidationService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/logout/Logout_Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/classes/com/shivam/logout/Logout_Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/common/footer.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/common/footer.jspf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/common/header.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/common/header.jspf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/common/navbar.jspf" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/common/navbar.jspf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/views/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/views/new_todo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/views/new_todo.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/views/todo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ToDo_Application_PROJECT-1.0-SNAPSHOT/WEB-INF/views/todo.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/shivam/ToDo/Add_ToDo_Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shivam/ToDo/Add_ToDo_Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/shivam/ToDo/Delete_ToDo_Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shivam/ToDo/Delete_ToDo_Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/shivam/ToDo/List_ToDo_Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shivam/ToDo/List_ToDo_Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/shivam/ToDo/ToDo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/shivam/ToDo/ToDoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shivam/ToDo/ToDoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/shivam/filter/Login_Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shivam/filter/Login_Filter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/shivam/login/Login_Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shivam/login/Login_Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/shivam/login/UserValidationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shivam/login/UserValidationService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/shivam/logout/Logout_Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shivam/logout/Logout_Servlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/mailing/Mail_Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/mailing/Mail_Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/signup/Signup_Services.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/signup/Signup_Services.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -78,43 +40,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/new_todo.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-277">
-              <caret line="93" column="44" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="44" />
-              <folding>
-                <element signature="e#3337#3343#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#fieldset#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#fieldset#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#fieldset#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4370#4376#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/todo.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="123" column="93" selection-start-line="123" selection-start-column="93" selection-end-line="123" selection-end-column="93" />
-              <folding>
-                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4177#4183#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#5146#5152#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="-721">
+              <caret line="124" column="48" lean-forward="true" selection-start-line="124" selection-start-column="48" selection-end-line="124" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/common/navbar.jspf">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/connect_database/Connect_to_DB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+            <state relative-caret-position="-197">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/login/UserValidationService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,8 +72,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/signup/Signup_Services.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/logout/Logout_Servlet.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="68" column="64" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="64" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,23 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/login/Login_Servlet.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/mailing/Mail_Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4">
-              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/mailing/Task.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="238">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,12 +108,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/signup.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
+            <state relative-caret-position="340">
               <caret line="20" column="99" selection-start-line="20" selection-start-column="99" selection-end-line="20" selection-end-column="99" />
-              <folding>
-                <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#874#880#0#HTML" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -189,14 +135,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="306">
               <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#1099#1105#0#HTML" expanded="true" />
-                <element signature="e#1281#1287#0#HTML" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -235,17 +175,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/Add_ToDo_Servlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/List_ToDo_Servlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/login/Sample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/shivam/login/UserValidationService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/BackgroundTask.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/shivam/mailing/Mail_Service.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/Task.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/login/Login_Servlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/ToDoService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/Delete_ToDo_Servlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/shivam/connect_database/Connect_to_DB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/shivam/signup/Signup_Services.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/signup/SignUp_Servlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/signup.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" />
@@ -255,6 +191,10 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/common/navbar.jspf" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/new_todo.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/todo.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shivam/connect_database/Connect_to_DB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shivam/login/UserValidationService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shivam/signup/Signup_Services.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shivam/mailing/Mail_Service.java" />
       </list>
     </option>
   </component>
@@ -297,8 +237,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -339,6 +277,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="shivam" type="462c0819:PsiDirectoryNode" />
+              <item name="connect_database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ToDo_Application_PROJECT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToDo_Application_PROJECT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shivam" type="462c0819:PsiDirectoryNode" />
               <item name="login" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -346,48 +293,40 @@
               <item name="ToDo_Application_PROJECT" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shivam" type="462c0819:PsiDirectoryNode" />
+              <item name="logout" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ToDo_Application_PROJECT" type="b2602c69:ProjectViewProjectNode" />
               <item name="ToDo_Application_PROJECT" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shivam" type="462c0819:PsiDirectoryNode" />
+              <item name="mailing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ToDo_Application_PROJECT" type="b2602c69:ProjectViewProjectNode" />
               <item name="ToDo_Application_PROJECT" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ToDo_Application_PROJECT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ToDo_Application_PROJECT" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ToDo_Application_PROJECT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shivam" type="462c0819:PsiDirectoryNode" />
+              <item name="signup" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553003881554" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553005306384" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -562,11 +501,12 @@
       <workItem from="1552925689149" duration="1849000" />
       <workItem from="1552976898585" duration="8373000" />
       <workItem from="1552990778959" duration="12067000" />
+      <workItem from="1553004936923" duration="368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110858000" />
+    <option name="totallyTimeSpent" value="111226000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -587,7 +527,7 @@
       <window_info id="Favorites" order="3" sideWeight="0.50276244" side_tool="true" weight="0.24205749" />
       <window_info id="Web" order="4" sideWeight="0.50276244" side_tool="true" weight="0.24205749" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49723756" visible="true" weight="0.2685325" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49723756" visible="true" weight="0.27231467" />
       <window_info id="Structure" order="7" sideWeight="0.50276244" side_tool="true" weight="0.24205749" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3296" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -628,16 +568,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/ToDo/ToDo_Servlet.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/ToDo/Add_todo_Services.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/ToDo/ToDo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/logout/Logout_Servlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/login/Sample.java" />
     <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -648,16 +578,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/BackgroundTask.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/mailing/Mail_Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="36" column="74" selection-start-line="36" selection-start-column="74" selection-end-line="36" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
@@ -702,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/connect_database/Connect_to_DB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-405">
-          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/ToDo/List_ToDo_Servlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
@@ -723,16 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/login/UserValidationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -756,6 +659,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/new_todo.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="44" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/common/navbar.jspf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/login/Login_Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/mailing/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/signup.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="99" selection-start-line="20" selection-start-column="99" selection-end-line="20" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -770,92 +714,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/signup/Signup_Services.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="68" column="64" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/mailing/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/login/Login_Servlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/common/navbar.jspf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="306">
           <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#1099#1105#0#HTML" expanded="true" />
-            <element signature="e#1281#1287#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/new_todo.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-277">
-          <caret line="93" column="44" selection-start-line="93" selection-start-column="44" selection-end-line="93" selection-end-column="44" />
-          <folding>
-            <element signature="e#3337#3343#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#fieldset#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#fieldset#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#fieldset#2;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4370#4376#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/signup.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="20" column="99" selection-start-line="20" selection-start-column="99" selection-end-line="20" selection-end-column="99" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#874#880#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/todo.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="123" column="93" selection-start-line="123" selection-start-column="93" selection-end-line="123" selection-end-column="93" />
+        <state relative-caret-position="-721">
+          <caret line="124" column="48" lean-forward="true" selection-start-line="124" selection-start-column="48" selection-end-line="124" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/connect_database/Connect_to_DB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/login/UserValidationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4177#4183#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5146#5152#0#HTML" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/logout/Logout_Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/signup/Signup_Services.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/mailing/Mail_Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

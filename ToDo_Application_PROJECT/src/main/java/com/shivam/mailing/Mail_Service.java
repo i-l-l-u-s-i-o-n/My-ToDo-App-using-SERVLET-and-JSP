@@ -12,7 +12,7 @@ public class Mail_Service {
 
     private static final String host ="smtp.gmail.com" ;
     private static final String user = "shivam.dev1097@gmail.com";
-    private static final String pass = "Shivam22@";
+    private static final String pass = "12345";
     private static final String from = "shivam.dev1097@gmail.com";
     private static final String subject = "Reminder from VISION Technologies for your ToDo !";
 
@@ -55,5 +55,7 @@ public class Mail_Service {
         }
         return false;
     }
+
+
 
 }
