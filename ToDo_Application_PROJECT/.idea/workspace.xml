@@ -7,10 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="863642da-3d19-4cf9-aa63-1ddb62f23953" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/connect_database/Connect_to_DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/connect_database/Connect_to_DB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/login/UserValidationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/login/UserValidationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/mailing/Mail_Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/mailing/Mail_Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/signup/Signup_Services.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/signup/Signup_Services.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/ToDoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/ToDoService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/todo.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-721">
-              <caret line="124" column="48" lean-forward="true" selection-start-line="124" selection-start-column="48" selection-end-line="124" selection-end-column="48" />
+              <caret line="124" column="48" selection-start-line="124" selection-start-column="48" selection-end-line="124" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -60,11 +57,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/login/UserValidationService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="-34">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/ToDo/ToDoService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="49" lean-forward="true" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -74,6 +80,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/login/Login_Servlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,32 +111,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/mailing/Mail_Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="187">
               <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/signup.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="99" selection-start-line="20" selection-start-column="99" selection-end-line="20" selection-end-column="99" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -180,7 +180,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/Task.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/login/Login_Servlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/ToDoService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/Delete_ToDo_Servlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/signup/SignUp_Servlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/signup.jsp" />
@@ -195,6 +194,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/login/UserValidationService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/signup/Signup_Services.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shivam/mailing/Mail_Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/shivam/ToDo/ToDoService.java" />
       </list>
     </option>
   </component>
@@ -315,6 +315,15 @@
               <item name="shivam" type="462c0819:PsiDirectoryNode" />
               <item name="signup" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ToDo_Application_PROJECT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToDo_Application_PROJECT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shivam" type="462c0819:PsiDirectoryNode" />
+              <item name="ToDo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -326,7 +335,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553005306384" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553005369868" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -501,12 +510,12 @@
       <workItem from="1552925689149" duration="1849000" />
       <workItem from="1552976898585" duration="8373000" />
       <workItem from="1552990778959" duration="12067000" />
-      <workItem from="1553004936923" duration="368000" />
+      <workItem from="1553004936923" duration="432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111226000" />
+    <option name="totallyTimeSpent" value="111290000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -582,16 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
           <caret line="90" column="58" selection-start-line="90" selection-start-column="58" selection-end-line="90" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/ToDo/ToDoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="159" column="21" selection-start-line="159" selection-start-column="21" selection-end-line="159" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,16 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/login/Login_Servlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/mailing/Task.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
@@ -724,7 +713,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/todo.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-721">
-          <caret line="124" column="48" lean-forward="true" selection-start-line="124" selection-start-column="48" selection-end-line="124" selection-end-column="48" />
+          <caret line="124" column="48" selection-start-line="124" selection-start-column="48" selection-end-line="124" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -735,10 +724,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/login/UserValidationService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/signup/Signup_Services.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="234">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/mailing/Mail_Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -755,23 +754,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/signup/Signup_Services.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/login/Login_Servlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="523">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/mailing/Mail_Service.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/login/UserValidationService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        <state relative-caret-position="-34">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/shivam/ToDo/ToDoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="49" lean-forward="true" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
         </state>
       </provider>
     </entry>

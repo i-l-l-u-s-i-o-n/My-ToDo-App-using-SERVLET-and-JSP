@@ -67,11 +67,6 @@ public class ToDoService {
 //
 //    private final String url="jdbc:mysql://localhost:3306/mydb";
 
-//
-//    private final String name="sql9283549";
-//    private final String pass="LMLvyUEJSM";
-//    private final String url="jdbc:mysql://sql9.freemysqlhosting.net:3306/sql9283549";
-//
 //    private Connection conn;
     private Statement statement;
     private ResultSet result;
