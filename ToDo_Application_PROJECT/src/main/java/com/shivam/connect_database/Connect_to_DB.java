@@ -8,7 +8,7 @@ import java.sql.*;
 public class Connect_to_DB {
 
     private static final String name="root";
-    private static final String pass="vision22@";
+    private static final String pass="1234";
     private static final String url="jdbc:mysql://localhost:3306/sql9283549";
 
 
